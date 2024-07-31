@@ -1,0 +1,2 @@
+# javascript-practice
+hello world
